@@ -1,2 +1,3 @@
 # classification_toxic_comments
-pet project
+Классификация токсичных комментариев.  
+Учебный проект.
